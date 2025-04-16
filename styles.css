@@ -3,6 +3,15 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+
+  #clima, #fecha {
+    font-size: 1rem;
+    margin-top: 1rem;
+    color: #007acc;
+    font-weight: 600;
+  }
+  
   
   body {
     font-family: 'Poppins', sans-serif;
@@ -101,6 +110,21 @@
   
   .proyecto a {
     display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: #007acc;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+  }
+  
+  .proyecto a:hover {
+    background-color: #005f99;
+  }
+  .proyecto a {
+    display: inline-block;
+    margin-right: 10px;
     margin-top: 10px;
     text-decoration: none;
     background-color: #007acc;

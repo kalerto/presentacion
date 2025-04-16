@@ -1,4 +1,5 @@
 # presentacion
+<<<<<<< HEAD
 Mi primer portfolio Web 
 
 
@@ -34,3 +35,6 @@ Consulta el clima en tiempo real usando una API pública.
     +54 9 11 3287 4341
 Si quieres contactarme, puedes escribirme a:  
 **📧 kalerto@gmail.com**
+=======
+Mi primer portfolio Web Hector Malaver 
+
